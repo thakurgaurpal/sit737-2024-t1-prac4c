@@ -1,5 +1,9 @@
 sit737-2024-t1-prac4c
-step-by-step documentation for calculator microservices: installed node.js The following dependencies are used in this project: express: Framework for building web applications in Node.js. winston: Logging library for Node.js.
+
+step-by-step documentation for calculator microservices: 
+installed node.js 
+
+The following dependencies are used in this project: express: Framework for building web applications in Node.js. winston: Logging library for Node.js.
 
 Run the microservice using "app node.js" command. This command runs the microservices on default port 3000, we can change this port by setting the PORT environment variable if required.
 
