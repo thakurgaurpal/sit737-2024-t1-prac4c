@@ -1,0 +1,5 @@
+{"level":"error","message":"Invalid parameters","service":"calculator-microservice"}
+{"level":"error","message":"Invalid parameters","service":"calculator-microservice"}
+{"level":"info","message":"Square root operation requested for: 5","service":"calculator-microservice"}
+{"level":"info","message":"Square root operation requested for: 5","service":"calculator-microservice"}
+{"level":"info","message":"Square root operation requested for: 5","service":"calculator-microservice"}
