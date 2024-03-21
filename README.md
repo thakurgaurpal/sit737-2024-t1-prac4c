@@ -7,19 +7,21 @@ The following dependencies are used in this project: express: Framework for buil
 
 Run the microservice using "app node.js" command. This command runs the microservices on default port 3000, we can change this port by setting the PORT environment variable if required.
 
-We can run different functionalities by providing their values to the following different endpoints like: Addition: /add?num1=&num2=
+We can run different functionalities by providing their values to the following different endpoints like: 
 
-Subtraction: /subtract?num1=&num2=
+Addition: /add?num1=<num1>&num2=<num2>
 
-Multiplication: /multiply?num1=&num2=
+Subtraction: /subtract?num1=<num1>&num2=<num2>
 
-Division: /divide?num1=&num2=
+Multiplication: /multiply?num1=<num1>&num2=<num2>
 
-Exponentiation: /exponentiate?base=&exponent=
+Division: /divide?num1=<num1>&num2=<num2>
 
-Square Root: /sqrt?num=
+Exponentiation: /exponentiate?base=<base>&exponent=<exponent>
 
-Modulus: /modulo?num1=&num2=
+Square Root: /sqrt?num=<num>
+
+Modulus: /modulo?num1=<num1>&num2=<num2>
 
 Error Handling
 
